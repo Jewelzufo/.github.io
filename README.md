@@ -2,7 +2,7 @@
 IBM Champion 2025, Generative AI Engineer
 
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Jewelzufo/.github.io/main/champion%20badge.png" alt="IBM Champion 2025" width="200"/>
 </p>
 
