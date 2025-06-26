@@ -4,7 +4,9 @@ IBM Champion 2025, Generative AI Engineer
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Jewelzufo/.github.io/main/champion%20badge.png" alt="IBM Champion 2025" width="200"/>
+  <img src="https://github.com/Jewelzufo/.github.io/blob/main/genai%20engineering.png?raw=true" alt="GenAI Engineering" width="200"/>
 </p>
+
 
 
 ---
