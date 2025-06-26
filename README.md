@@ -31,7 +31,7 @@ My publicly available articles:
 
 # Tutorials
 
-Basic Tutorials: 
+Basic Tutorials I have created: 
 
 **1** [Collaborative Workflows (Granite)](https://github.com/Jewelzufo/Collaborative-workflows-granite)
 
@@ -44,6 +44,7 @@ Basic Tutorials:
 Connect with me on 
 - [LinkedIn](https://www.linkedin.com/in/julian-g-7b533129a/)
 - [Beacons Profile](https://www.beacons.ai/julian.gonzalez)
+- [IBM Champions Page](https://community.ibm.com/community/user//expert/juliangonzalez)
 
 ---
 
