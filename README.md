@@ -1,7 +1,9 @@
-# Julian A. Gonzalez 
+# Julian A. Gonzalez
+>**Role:**
 *Generative AI Engineer, Analyst*  
 
-**Specialization:** Prompt Engineering
+>**Specializations:** 
+*Prompt Engineering*, *AI Workflow Design*, *Adversarial Prompts*
 
 ---
 #### **Credentials**
@@ -23,22 +25,19 @@
 
 # Articles
 
-My publicly available articles:
+>My publicly available articles:
 
-**1.** [Iterative Workflows](Article-Iterative-AI-Workflows.md)
 
-**2.** [Collaborative Prompting Repository](https://github.com/Jewelzufo/collaborative-prompting)
-
-**3.** [Prompt Visualization README](https://github.com/Jewelzufo/prompt-visualization/blob/main/README.md)
+**Catalog:**
+[Article Catalog](Article-Iterative-AI-Workflows.md)
 
 
 # Tutorials
 
-Basic Tutorials I have created related to AI: 
+>Tutorials I have created related to Prompt Engineering: 
 
-**1.** [Collaborative Workflows (Granite)](https://github.com/Jewelzufo/Collaborative-workflows-granite)
+**Catalog**
 
-**2.** [IBM Agent Lab Repository](https://github.com/Jewelzufo/Ibm-agent-lab)
 
 ---
 
