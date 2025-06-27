@@ -78,18 +78,18 @@ Basic Tutorials I have created related to AI:
 
 ---
 
-## 🎓 IBM Learning Resources
+## 🎓 Free IBM Credential Database
 
-Explore curated IBM learning content in a Database of free credentials!
+Explore curated IBM learning content in a Database of free credentials I made last year. *(Updated monthly)*
 
-- 📘 [Free IBM Learning on Notion](https://freeibmlearning.notion.site/1883dd4caa4080d9b590eee183db52c1?v=1903dd4caa40802e99dd000c7073bb17)
+- 📘 [Database](https://freeibmlearning.notion.site/1883dd4caa4080d9b590eee183db52c1?v=1903dd4caa40802e99dd000c7073bb17)
 
 
 ---
 
 ### 📬 Contact
 
-Connect with me on 
+Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/julian-g-7b533129a/)
 - [Beacons Profile](https://www.beacons.ai/julian.gonzalez)
 - [IBM Champions Page](https://community.ibm.com/community/user//expert/juliangonzalez)
