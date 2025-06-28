@@ -1,9 +1,14 @@
 # Julian A. Gonzalez
+
+
+  <img src="https://f4.bcbits.com/img/0032059996_10.jpg" height="300" width="300"/>
+
 >**Role:**
 *Generative AI Engineer, Analyst*  
 
 >**Specializations:** 
 *Prompt Engineering*, *AI Workflow Design*, *Adversarial Prompts*
+</p>
 
 ---
 #### **Credentials**
@@ -23,7 +28,7 @@
 
 ---
 
-# Articles
+## Articles
 
 >My publicly available articles:
 
@@ -32,45 +37,22 @@
 [Article Catalog](Article-Iterative-AI-Workflows.md)
 
 
-# Tutorials
+## Tutorials
 
 >Tutorials I have created related to Prompt Engineering: 
 
-**Catalog**
-
-
----
-
-# Research Diagrams
-
-### 1. Contextual Mesh *J.A.G., 2025*
-
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQHkbwoRwhuDNw/feedshare-shrink_800/B4EZcZn7veHYAg-/0/1748481589215?e=1753920000&v=beta&t=tLyhMXjeWsMDoPIDLVt7OHA-CQ57veAvlqEfeodwuHU" alt="Theoretical Context Diagram" height="500" width="600"/>
-
-
-### 2. Progressive Threshold Enhancement Prompting *J.A.G., 2025*
-
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQGt-5vHip1XgQ/feedshare-shrink_1280/B4EZcrwbtZG4Ao-/0/1748785807444?e=1753920000&v=beta&t=T-eEH-KhRlVWzUvgel9bEZoZqQsBZKoHm94sYUD6INU" alt="PTE Prompt Engineering Diagram" height="300" width="550"/>
-
-
-### 3. Context Injection Workflow *J.A.G., 2025*
-
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQFi6YWCVNQFnQ/feedshare-shrink_1280/B4EZeOzWTWG4Ak-/0/1750447517136?e=1753920000&v=beta&t=u6kDUACfDNBpTVOf8iVQKAAPtAUWPZS16MYIKlCjRpY" alt="context injection workflow" height="550" width="400"/>
-
-### 4. Multi-Turn Context Summarization *J.A.G., 2025*
-
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQGtl7HC_toKmg/feedshare-shrink_1280/B4EZb7W6BtHkAk-/0/1747973809314?e=1753920000&v=beta&t=znMweiLwR0y5bErjQtkQg9ava4biSRkWSo12Hj1zrsk" alt="Context Summarization" height="500" width="500"/>
-
+**Catalog:**
+[Tutorials](https://github.com/Jewelzufo/.github.io/blob/81330effc9017a50ea764caa53e73f4de6ab69da/tutorials.md)
 
 ---
  
-# GPTs
+## AI Assistants
 
-[**1. DraftFlow**](https://chatgpt.com/g/g-67e55cb350308191a8c14eed1e7402ce-draftflow)
+>*List of all AI Assistants i've created.*
 
-[**2. Structured Prompt XML**](https://chatgpt.com/g/g-TjgerVlXj-structured-prompt-xml)
+**AI Assistants:**
+[Custom Assistants](assistants.md)
 
-[3. Linear Algebra(Natural)](https://chatgpt.com/g/g-TjgerVlXj-structured-prompt-xml)
 
 
 
@@ -79,8 +61,9 @@
 
 ## 🎓 Free IBM Credential Database
 
-Explore curated IBM learning content in a Database of free credentials I made last year. *(Updated monthly)*
+>Explore curated IBM learning content in a Database of free credentials I made last year. *(Updated monthly)*
 
+**Free Credentials:**
 - 📘 [Database](https://freeibmlearning.notion.site/1883dd4caa4080d9b590eee183db52c1?v=1903dd4caa40802e99dd000c7073bb17)
 
 
