@@ -1,7 +1,7 @@
 # Julian A. Gonzalez
 
 
-  <img src="https://f4.bcbits.com/img/0032059996_10.jpg" height="300" width="300"/>
+  <img src="https://f4.bcbits.com/img/0032059996_10.jpg" height="150" width="150"/>
 
 >**Role:**
 *Generative AI Engineer, Analyst*  
