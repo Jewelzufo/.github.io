@@ -4,6 +4,8 @@
 
 ---
 
+## GPTs(OpenAI)
+
 **1. Structured Prompt XML**
 
 >*Input a basic prompt and this GPT will output an XML structured version. Great for formatting Claude Prompts*
@@ -47,6 +49,16 @@
 [REN](https://hf.co/chat/assistant/67f0ab29c108d99bb836bfd1)
 
 >*NousResearch/Hermes-3-Llama-3.1-8B*
+
+---
+
+**4. Gemma-JSON**
+
+*Input a prompt and have it formatted into JSON.*
+
+[NEW Gemma-JSON](https://hf.co/chat/assistant/685f9c8ad63032db164ef2e2)
+
+>*Google Gemma3-27b-it*
 
 ---
 
