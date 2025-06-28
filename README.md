@@ -1,9 +1,14 @@
 # Julian A. Gonzalez
+
+
+  <img src="https://f4.bcbits.com/img/0032059996_10.jpg" height="300" width="300"/>
+
 >**Role:**
 *Generative AI Engineer, Analyst*  
 
 >**Specializations:** 
 *Prompt Engineering*, *AI Workflow Design*, *Adversarial Prompts*
+</p>
 
 ---
 #### **Credentials**
