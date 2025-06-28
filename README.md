@@ -44,7 +44,12 @@
 
 ---
  
-## GPTs
+## AI Assistants
+
+>*List of all AI Assistants i've created.*
+
+**AI Assistants:**
+[Custom Assistants](assistants.md)
 
 
 
@@ -54,8 +59,9 @@
 
 ## 🎓 Free IBM Credential Database
 
-Explore curated IBM learning content in a Database of free credentials I made last year. *(Updated monthly)*
+>Explore curated IBM learning content in a Database of free credentials I made last year. *(Updated monthly)*
 
+**Free Credentials:**
 - 📘 [Database](https://freeibmlearning.notion.site/1883dd4caa4080d9b590eee183db52c1?v=1903dd4caa40802e99dd000c7073bb17)
 
 
