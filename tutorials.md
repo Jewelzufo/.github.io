@@ -1,3 +1,31 @@
+
+[Collaborative Workflows](https://github.com/Jewelzufo/Collaborative-workflows-granite)
+
+>**Topics:**
+*AI Workflows*, *Collaborative AI*
+
+---
+
+**3. Optimizing AI-Human Collaboration for Innovation and Efficiency**
+
+<img src="https://github.com/Jewelzufo/.github.io/raw/main/Collaboration%20for%20innovation%20image.png" height="400" width="350"/>
+
+[Optimizing AI-Human Collaboration](https://github.com/Jewelzufo/.github.io/blob/main/Article-Iterative-AI-Workflows.md)
+
+>**Topics:**
+*Collaborative AI*
+
+---
+
+
+## 4. Granite-Pi
+
+<img src="https://duckduckgo.com/?q=ollama%20granite&ko=-1&ia=images&iax=images&iai=https%3A%2F%2Follama.com%2Fpublic%2Fblog%2Follama_ibm.png" height="400" width="350"/>
+
+[Granite-Pi](https://github.com/Jewelzufo/granitepi)
+
+
+>**Topics:** *Raspberry Pi 5*, *IBM Granite*, *Linux*, *AI*
 # Tutorials
 **Author:** *Julian A. Gonzalez, IBM Champion 2025*
 
@@ -35,6 +63,8 @@
 
 
 ## 4. Granite-Pi
+
+<img src="https://duckduckgo.com/?q=ollama%20granite&ko=-1&ia=images&iax=images&iai=https%3A%2F%2Follama.com%2Fpublic%2Fblog%2Follama_ibm.png" height="400" width="350"/>
 
 [Granite-Pi](https://github.com/Jewelzufo/granitepi)
 
