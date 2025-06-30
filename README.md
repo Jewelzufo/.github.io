@@ -41,8 +41,7 @@
 
 >Tutorials I have created related to Prompt Engineering: 
 
-**Catalog:**
-[Tutorials](https://github.com/Jewelzufo/.github.io/blob/81330effc9017a50ea764caa53e73f4de6ab69da/tutorials.md)
+[Tutorials](tutorials.md)
 
 ---
  
