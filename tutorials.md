@@ -1,5 +1,5 @@
 # Tutorials
-**Author:** *Julian A. Gonzalez*
+**Author:** *Julian A. Gonzalez, IBM Champion 2025*
 
 ---
 
@@ -34,4 +34,10 @@
 ---
 
 
+## 4. Granite-Pi
+
+[Granite-Pi](https://github.com/Jewelzufo/granitepi)
+
+
+>**Topics:** *Raspberry Pi 5*, *IBM Granite*, *Linux*, *AI*
 
