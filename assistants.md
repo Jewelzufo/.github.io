@@ -52,13 +52,13 @@
 
 ---
 
-**4. Gemma-JSON**
+**4. Tool Maker**
 
-*Input a prompt and have it formatted into JSON.*
+*Input a prompt and have it formatted into structured JSON.*
 
-[NEW Gemma-JSON](https://hf.co/chat/assistant/685f9c8ad63032db164ef2e2)
+[Tool Maker](https://hf.co/chat/assistant/686379ff0dff0250269e5641)
 
->*Google Gemma3-27b-it*
+>*Llama-3.3-70b*
 
 ---
 
