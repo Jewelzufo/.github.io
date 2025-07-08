@@ -1,10 +1,11 @@
-# AI Assistants
+<div align="center"/>
+  <h1>AI Assistants</h1>
 
-*The following assistants were created by me, using detailed system prompts!*
+  *The following assistants were created by me, using detailed system prompts!*
+</div>
 
----
 
-## GPTs(OpenAI)
+## OpenAI GPTs
 
 **1. Structured Prompt XML**
 
@@ -25,52 +26,14 @@
 
 [PokeTCG Assistant](https://chatgpt.com/g/g-686ccb2374448191ba59bf54291280a9-poketcg-assistant)
 
----
+- *Function Calling*
 
-# HuggingChat Assistants
+**4. Fortune Teller**
+>Novel GPT for fans of astrology!
 
-*Precision care for Anthurium Species plants*
+[Fortune Teller](https://chatgpt.com/g/g-0SDbRYGYI-fortuneteller)
 
-**1. Anthurium Care Expert(Plants)**
-
-[ACE](https://hf.co/chat/assistant/67f16b0eeffb580fa92f6811)
-
->*Google Gemma3-27b-it*
-
-**2. Coin Grading Expert**
-
-*Upload a clear image of your coin and have it graded on the PCGS coin grading scale.*
-
-[Coin Grading Expert](https://hf.co/chat/assistant/68044433e5414edf1c8f2075)
-
->*Google Gemma3-27b-it*
+- *Just for fun*
 
 ---
-
-**3. REN(Home Renovation ROI Optimizer**
-
-*AI assistant specialized in helping property investors, homeowners, and real estate professionals make data-driven renovation decisions that maximize return on investment.*
-
-[REN](https://hf.co/chat/assistant/67f0ab29c108d99bb836bfd1)
-
->*NousResearch/Hermes-3-Llama-3.1-8B*
-
----
-
-**4. Tool Maker**
-
-*Input a prompt and have it formatted into structured JSON.*
-
-[Tool Maker](https://hf.co/chat/assistant/686379ff0dff0250269e5641)
-
->*Llama-3.3-70b*
-
----
-
-*This will be continually updated!*
-
-
-
-
-
 
