@@ -12,13 +12,18 @@
 
 [Structured Prompt XML](https://chatgpt.com/g/g-TjgerVlXj-structured-prompt-xml)
 
----
 
 **2. DraftFlow**
 
 >*Research Assistant*
 
 [DraftFlow](https://chatgpt.com/g/g-67e55cb350308191a8c14eed1e7402ce-draftflow)
+
+
+**3. PokeTCG Assistant**
+>*AI Assistant for players of the Pokemon Trading Card Game*
+
+[PokeTCG Assistant](https://chatgpt.com/g/g-686ccb2374448191ba59bf54291280a9-poketcg-assistant)
 
 ---
 
