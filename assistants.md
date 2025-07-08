@@ -35,5 +35,14 @@
 
 - *Just for fun*
 
+**5. FL SoundDesigner**
+>*Generates markdown table formatted preset settings for various synthesizer sounds, speeding up the sound design process in Electronic music.*
+
+[FL SoundDesigner](https://chatgpt.com/g/g-6742bedaae288191aea14d371cfebd91-fl-sounddesigner)
+
+- *For music production*
+- *Streamlines sound design proccess, allowing for more creative expression and less time endlessly adjusting parameters.*
+
+  
 ---
 
