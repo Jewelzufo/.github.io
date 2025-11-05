@@ -1,5 +1,5 @@
 # Julian A. Gonzalez
-## Generative AI Engineer & Analyst
+## AI Engineer & Researcher
 
 <div align="center">
 
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-I'm a **Generative AI Engineer** and **IBM Champion** specializing in cutting-edge AI technologies, prompt engineering, and enterprise AI solutions. With a passion for pushing the boundaries of human-AI interaction, I design robust, scalable AI workflows that transform how organizations leverage artificial intelligence.
+I'm a **Generative AI Engineer** and **IBM Champion** specializing in cutting-edge AI technologies, prompt engineering, and enterprise AI solutions. With a passion for pushing the boundaries of human-AI interaction, I aim to design robust, scalable AI workflows that transform how organizations leverage artificial intelligence.
 
 ### 🎯 Core Specializations
 - **🧠 Advanced Prompt Engineering** - Crafting sophisticated prompts for optimal AI model performance
 - **⚙️ AI Workflow Architecture** - Designing end-to-end AI solution frameworks
-- **🛡️ AI Security & Robustness** - Developing adversarial testing methodologies
+- **🛡️ Privacy-Focused Edge AI** - Developing adversarial testing methodologies
 - **🏢 Enterprise AI Integration** - Scaling AI solutions for business applications
 
 ---
@@ -33,7 +33,6 @@ I'm a **Generative AI Engineer** and **IBM Champion** specializing in cutting-ed
 ![Ollama](https://img.shields.io/badge/Ollama-0B0B0B?style=flat&logo=ollama&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-2D3A4A?style=flat&logo=mistral&logoColor=white)
 ![Cohere AI](https://img.shields.io/badge/Cohere_AI-FFD600?style=flat&logo=cohere&logoColor=black)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
 ![Meta Llama](https://img.shields.io/badge/Meta_Llama-0064FA?style=flat&logo=meta&logoColor=white)
 ![DeepSeek R1](https://img.shields.io/badge/DeepSeek_R1-15C39A?style=flat&logo=deepnote&logoColor=white)
 
@@ -45,9 +44,7 @@ I'm a **Generative AI Engineer** and **IBM Champion** specializing in cutting-ed
 
 ### 💻 Development & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
