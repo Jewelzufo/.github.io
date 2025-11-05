@@ -24,7 +24,25 @@
 *Prompt Engineering*
 
 ### 5. Granite-Pi
-[Granite-Pi](https://github.com/Jewelzufo/granitepi)
+
+<div align="center">
+  <img src="https://ollama.com/public/blog/ollama_ibm.png" height="700" width="900>
+    </div>
+    
+    
+>[Granite-Pi](https://github.com/Jewelzufo/granitepi)
+
+**Description**: A beginner-friendly guide to running IBM's Granite 3.2-2B language model on Raspberry Pi 5 using only built-in hardware. Create a local AI assistant with CPU-only processing.
 > **Topics:**
 *Raspberry Pi 5*, *IBM Granite*, *Linux*, *AI*
 ---
+
+## 6. GranitePi-4-Nano
+
+<div align="center">
+  <img src="https://github.com/Jewelzufo/granitepi-4-nano/blob/main/granitepi4.jpg?raw=true" height="500" width="500">
+</div>
+
+**Link**: [Repository](https://github.com/Jewelzufo/granitepi-4-nano/tree/main)
+
+  **Description**: *Run a full-featured large language model entirely on your Raspberry Pi 5 with zero cloud dependency.*
